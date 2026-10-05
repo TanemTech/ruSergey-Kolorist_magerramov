@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "exporter_version": "6.4.0",
-  "exported_at": "2026-10-04T07:37:56.988329+00:00",
+  "exporter_version": "6.4.17",
+  "exported_at": "2026-10-05T11:48:04.469093+00:00",
   "source_url": "https://yandex.ru/maps/org/parikmakher_kolorist_magerramov_fuad/234413857783/",
   "source_platform": "yandex_maps",
   "resolved_url": "https://yandex.ru/maps/org/234413857783/",
@@ -745,6 +745,356 @@
   ],
   "photos": [
     {
+      "file": "Gallery-01.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/467660/2a000001867e282c0fe0ec15aa5d5edc07ac/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "43acd86bccd05267f2e8e157c5a66eb8d922482a08091e1a1cebbb96f4573c62",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-02.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11400839/2a0000018cd0d48819e096eb4613309f5be2/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "de120a61c0ef917ac1c89d24e849b8ee248bad71b20350958779b8a84ddd9659",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-03.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/12810232/2a00000192d7e9a2c03a1f51ff00f7cf1939/XXXL",
+      "source_width": 972,
+      "source_height": 1280,
+      "width": 972,
+      "height": 1280,
+      "sha256": "91477d7b1da7c9880082cd83e8c06306f180f0af49ec77dc83cc6de54953c816",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-04.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/474904/2a000001867e2685f0d115238ae5fa73678d/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "8d2a555ad39761343dbdcd97020a5cc3ad0842abc878216ed0bad88e3b5fcde7",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-05.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/6477742/2a00000190e3a8f0b5901f48682cc01ae613/XXXL",
+      "source_width": 1024,
+      "source_height": 1280,
+      "width": 1024,
+      "height": 1280,
+      "sha256": "da46f3b4b2a8312aa630b626d5158709820f5b6d8802901fc58b8de2d139600b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-06.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11383572/2a0000018cfa4b9e6a341ac92a51628e6de7/XXXL",
+      "source_width": 1280,
+      "source_height": 1268,
+      "width": 1280,
+      "height": 1268,
+      "sha256": "4d3a86c9972998060b7d4f62bcf2b39fec1a7668a3d478f584841888c09eaa43",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-07.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13581124/2a0000018f4d42396fde252d2e9b1091ab42/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "56449c28f5a26ed363bbf8588a65fd7e681f9758af1a26dc53373a678c1f2da8",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-08.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/918124/2a000001867e282b99ff3fea9856fd299344/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "d2c7a42d15ac2a6c1bb425bf90c8b0accd6a20f6e067a2bb8cb6ac2aa5b2d813",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-09.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11371852/2a0000018cfa6439679e9bcde285322beac7/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "347eac7db75b84b01d9de608cbf7c696ba91b6dfc4664b4eb607773451e69e60",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-10.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10092863/2a0000018ac39af02d889bb51736d63874c3/XXXL",
+      "source_width": 1002,
+      "source_height": 1280,
+      "width": 1002,
+      "height": 1280,
+      "sha256": "56b5ddc648e732471030448b639dc2a3edda3670a63ead8df62715fd72f7163b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-11.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10768923/2a0000018a0d817b9e8259d75dbba86c7479/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "203e607db65526bb32ea143ee9ddda3b5c2b9b5649ce1925db34efef072f138b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-12.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/474904/2a000001867e25817ad9f51e4c2e3a11a0bc/XXXL",
+      "source_width": 603,
+      "source_height": 603,
+      "width": 603,
+      "height": 603,
+      "sha256": "933ea7541023fc49a420041e9d95e7c9b6b5b5ed4e2f67aa32dfff7b703d32d9",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-13.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14076755/2a00000196f1e2d69625a81fe3d4e734ac51/XXXL",
+      "source_width": 988,
+      "source_height": 1280,
+      "width": 988,
+      "height": 1280,
+      "sha256": "ca995f9408c2040ee0b6fd4f20914743d19ac304b1acfdba553b90eaf8de82a5",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-14.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9237948/2a0000018a61e315590ec707d526369f080e/XXXL",
+      "source_width": 728,
+      "source_height": 1280,
+      "width": 728,
+      "height": 1280,
+      "sha256": "0a188aca516f9d790eb267e788a286a905a57bb67127c966c4ea809bb0704cda",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-15.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/941278/2a000001867e2672c0049eed30cdf33cb873/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "9e123408f121f2666a13bc228c8a7681f352656222945e3d6bc6b951bcc1da0b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-16.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13083354/2a0000018f4d404e31542e610d8944569449/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "a1fa561a0d38ea46e8c7803575f45b602fb0880aeb0ca4441b954ed9cc8c91c1",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-17.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10878016/2a0000018b2949e178d23109b1204f797501/XXXL",
+      "source_width": 793,
+      "source_height": 1280,
+      "width": 793,
+      "height": 1280,
+      "sha256": "197e0d6a3ea317e994cde2052013ab45bd29a30077897e9a65b4245cf46ce2a8",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-18.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9753788/2a00000189da51faae9de302b24dd5ab8de7/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "fc8e7cba7365411e20369e71f5fef8a76b6b6bb2ab28c17e56cde1a660a5b46a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-19.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10963815/2a0000018bb0194ca90bb391eedc89a7de1b/XXXL",
+      "source_width": 1080,
+      "source_height": 1225,
+      "width": 1080,
+      "height": 1225,
+      "sha256": "5e7f606e87e5dbada1e4ff348ab4d9a3fc7b09f7efcb058e66abda8cc3fde9be",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-20.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9737178/2a0000018d5796dc28b362a01a3d6bc0c210/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "41a54433a401bc1b9eb489e940680b4bc86f009101f8efca101ecd6c013ce5ab",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-21.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1633071/2a000001867e2a5169d324c6330e2f4cfea8/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 1280,
+      "sha256": "92634fa386e96be77870fb1a755f93797b9c8d412b1911fcb7914542622e72c8",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-22.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/14005436/2a00000193b1b4e8be8c8129fcb88edabcf6/XXXL",
+      "source_width": 901,
+      "source_height": 1280,
+      "width": 901,
+      "height": 1280,
+      "sha256": "523ddeae7879c05fbcaf4481f34476d34dc0343ee577da969688fa2f371f7d5a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-23.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10702775/2a0000018d6fc107a13ed286bd438d30309d/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "0a4bbe44fc99f47ae4b3e4be22ff557da3010f41500cbbbf4321ca1096b03918",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-24.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1025206/2a000001867f45fcf997f05a2f050c51ec62/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "37e43a5643a8f3405ec19c7049578569e60e8ebc2f0ab514a0f68b948eddd03a",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-25.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1909414/2a000001867f45fc2351f3edbee58d5774a2/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 1280,
+      "sha256": "da0c829da23809125cf8efaf46fddeb2a2e2a580533243b505cb6b225a58f53d",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
       "file": "Hero.webp",
       "source": "https://avatars.mds.yandex.net/get-altay/1881820/2a000001867f45fc615230789505414f9a79/XXXL",
       "source_width": 960,
@@ -769,331 +1119,6 @@
         "Все"
       ],
       "role": "profile"
-    },
-    {
-      "file": "Gallery-01.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/467660/2a000001867e282c0fe0ec15aa5d5edc07ac/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "43acd86bccd05267f2e8e157c5a66eb8d922482a08091e1a1cebbb96f4573c62",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-02.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/1025206/2a000001867f45fcf997f05a2f050c51ec62/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "37e43a5643a8f3405ec19c7049578569e60e8ebc2f0ab514a0f68b948eddd03a",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-03.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/11400839/2a0000018cd0d48819e096eb4613309f5be2/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "de120a61c0ef917ac1c89d24e849b8ee248bad71b20350958779b8a84ddd9659",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-04.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/12810232/2a00000192d7e9a2c03a1f51ff00f7cf1939/XXXL",
-      "source_width": 972,
-      "source_height": 1280,
-      "width": 972,
-      "height": 1280,
-      "sha256": "91477d7b1da7c9880082cd83e8c06306f180f0af49ec77dc83cc6de54953c816",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-05.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/474904/2a000001867e2685f0d115238ae5fa73678d/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "8d2a555ad39761343dbdcd97020a5cc3ad0842abc878216ed0bad88e3b5fcde7",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-06.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/758053/2a000001867f456e6167895061e873759b4a/XXXL",
-      "source_width": 720,
-      "source_height": 1280,
-      "width": 720,
-      "height": 1280,
-      "sha256": "3dcbba85cc58b1c96feff77ccd0481185557eac1a9c08823145818b61dd8e7c3",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-07.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/8128793/2a000001874663942700b0ad77158a6194af/XXXL",
-      "source_width": 1080,
-      "source_height": 984,
-      "width": 1080,
-      "height": 984,
-      "sha256": "53a52683432b300682f1c4889afa10f53b0fc0c8ebcf0ee162a6dc35d8470a76",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-08.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/6477742/2a00000190e3a8f0b5901f48682cc01ae613/XXXL",
-      "source_width": 1024,
-      "source_height": 1280,
-      "width": 1024,
-      "height": 1280,
-      "sha256": "da46f3b4b2a8312aa630b626d5158709820f5b6d8802901fc58b8de2d139600b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-09.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/11383572/2a0000018cfa4b9e6a341ac92a51628e6de7/XXXL",
-      "source_width": 1280,
-      "source_height": 1268,
-      "width": 1280,
-      "height": 1268,
-      "sha256": "4d3a86c9972998060b7d4f62bcf2b39fec1a7668a3d478f584841888c09eaa43",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-10.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/9284964/2a0000018bfda230d968d8ce5f9fd0a8b527/XXXL",
-      "source_width": 1026,
-      "source_height": 1280,
-      "width": 1026,
-      "height": 1280,
-      "sha256": "6a3932c2c1a8fd65c729e570a3fd7052787318bea082e5d23d7509277cd560ff",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-11.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/13581124/2a0000018f4d42396fde252d2e9b1091ab42/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "56449c28f5a26ed363bbf8588a65fd7e681f9758af1a26dc53373a678c1f2da8",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-12.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/918124/2a000001867e282b99ff3fea9856fd299344/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "d2c7a42d15ac2a6c1bb425bf90c8b0accd6a20f6e067a2bb8cb6ac2aa5b2d813",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-13.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/1909414/2a000001867f45fc2351f3edbee58d5774a2/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "da0c829da23809125cf8efaf46fddeb2a2e2a580533243b505cb6b225a58f53d",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-14.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/11371852/2a0000018cfa6439679e9bcde285322beac7/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "347eac7db75b84b01d9de608cbf7c696ba91b6dfc4664b4eb607773451e69e60",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-15.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/10092863/2a0000018ac39af02d889bb51736d63874c3/XXXL",
-      "source_width": 1002,
-      "source_height": 1280,
-      "width": 1002,
-      "height": 1280,
-      "sha256": "56b5ddc648e732471030448b639dc2a3edda3670a63ead8df62715fd72f7163b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-16.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018c4144eac19de808fa78d34c868e/XXXL",
-      "source_width": 1080,
-      "source_height": 1066,
-      "width": 1080,
-      "height": 1066,
-      "sha256": "dc93e43db41243ed07303d111e512fa3ea51973679d08ac6004cd97e53560345",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-17.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/10768923/2a0000018a0d817b9e8259d75dbba86c7479/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "203e607db65526bb32ea143ee9ddda3b5c2b9b5649ce1925db34efef072f138b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-18.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/7659180/2a000001867f46e8f87a5b35c05fa67fb6cc/XXXL",
-      "source_width": 951,
-      "source_height": 1280,
-      "width": 951,
-      "height": 1280,
-      "sha256": "1b560f7640ddf8e66a11ac6a8f049a4fa7c8ddce0f693f30a46ed730d0622511",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-19.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/474904/2a000001867e25817ad9f51e4c2e3a11a0bc/XXXL",
-      "source_width": 603,
-      "source_height": 603,
-      "width": 603,
-      "height": 603,
-      "sha256": "933ea7541023fc49a420041e9d95e7c9b6b5b5ed4e2f67aa32dfff7b703d32d9",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-20.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/14076755/2a00000196f1e2d69625a81fe3d4e734ac51/XXXL",
-      "source_width": 988,
-      "source_height": 1280,
-      "width": 988,
-      "height": 1280,
-      "sha256": "ca995f9408c2040ee0b6fd4f20914743d19ac304b1acfdba553b90eaf8de82a5",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-21.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/9237948/2a0000018a61e315590ec707d526369f080e/XXXL",
-      "source_width": 728,
-      "source_height": 1280,
-      "width": 728,
-      "height": 1280,
-      "sha256": "0a188aca516f9d790eb267e788a286a905a57bb67127c966c4ea809bb0704cda",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-22.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/927916/2a000001867f3cf0bbb22a44fbd6660eb722/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "1331c3e9f3d0747477bafb2447b4f50c49d126c6121734533afe92425d22721e",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-23.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/941278/2a000001867e2672c0049eed30cdf33cb873/XXXL",
-      "source_width": 1280,
-      "source_height": 1280,
-      "width": 1280,
-      "height": 1280,
-      "sha256": "9e123408f121f2666a13bc228c8a7681f352656222945e3d6bc6b951bcc1da0b",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-24.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/13083354/2a0000018f4d404e31542e610d8944569449/XXXL",
-      "source_width": 960,
-      "source_height": 1280,
-      "width": 960,
-      "height": 1280,
-      "sha256": "a1fa561a0d38ea46e8c7803575f45b602fb0880aeb0ca4441b954ed9cc8c91c1",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
-    },
-    {
-      "file": "Gallery-25.webp",
-      "source": "https://avatars.mds.yandex.net/get-altay/10878016/2a0000018b2949e178d23109b1204f797501/XXXL",
-      "source_width": 793,
-      "source_height": 1280,
-      "width": 793,
-      "height": 1280,
-      "sha256": "197e0d6a3ea317e994cde2052013ab45bd29a30077897e9a65b4245cf46ce2a8",
-      "categories": [
-        "Все"
-      ],
-      "role": "gallery"
     }
   ],
   "site_images": {
@@ -1136,7 +1161,7 @@
       "title": "Парикмахер-колорист Магеррамов Фуад, салон красоты, просп. Мира, 95, Москва — Яндекс Карты",
       "heading": "Парикмахер-колорист Магеррамов Фуад",
       "meta": "Салон красоты «Парикмахер-колорист Магеррамов Фуад» — «Хорошее место» по оценкам пользователей — по адресу Москва, проспект Мира, 95, метро «Алексеевская», ☎️ +7 926 694 79 11. Читать 50 отзывов, смотреть 182 фото, панорамы, часы работы. Посмотреть входы на карте и построить маршрут в Яндекс Картах.",
-      "text": "Поиск\nМаршруты\nКарты · Москва · Салоны красоты\nПарикмахер-колорист Магеррамов Фуад\nРейтинг \n5,0\n52 оценки\nНаграды:\nХорошее место 2026\nОткрыто до 22:00\n+7 (926) 694-79-11\nПоказать телефон\nпросп. Мира, 95, Москва\nМаршрут\nДобавить фото или видео\nЕще 223\nОбзор\nТовары и услуги\nФото\n233\nОтзывы\n50\nОсобенности\nПохожие места\nТовары и услуги\nОбновлено 2 октября\nОкрашивание волос с выходом из темного с сохранением качества волос\n60 смСложная работа в окрашивание волос - это выход из темного , стоимость зависит от густоты и длины волос\n29900 ₽\nОригинальный аиртач в сложных диаграммах , тонирование красителем Lebel\n60 смВсе виды современных, сложных техник в окрашивание волос\n29900 ₽\nИсправление цвета волос\n60 смПосле бытовых красителей , удаление пятен, выравнивание полотна волос , коррекция цвета\n27900 ₽\nПосмотреть все товары и услуги\nАдрес\nпросп. Мира, 95, Москва\nПоказать входыМаршрут\nКонтакты\n+7 (926) 694-79-11\nПоказать телефон\nparikmaher-kolorist-magerramov.clients.site\nВремя работы\nОткрыто до 22:00\nГрафик\nИсправить неточность\nПохожие места\nСмотреть все\nМиша Колорист\nМиша Колорист\nРейтинг \n5,0\n580 оценок\n580 оценок\nОткрыто до 22:00\nФото\nЕще 453\nЗаписаться онлайн\nАкция:\n10% скидка на первое посещение\nПарикмахер-стилист Екатерина Султанова\nПарикмахер-стилист Екатерина Султанова\nРейтинг \n4,4\n13 оценок\n13 оценок\nОткрыто до 20:00\nФото\nЕще 11\nЦены\nСтудия Правильной Стрижки\nСтудия Правильной Стрижки\nРейтинг \n5,0\n555 оценок\n(555)\nНаграды:\nХорошее место 2026\nОткрыто до 21:00\nФото\nЕще 142\nЦены\nАкция:\nГарантия на результат!\nВходит в подборки\nПодборка  ·  20 мест\nСалоны красоты с наградой «Хорошее место 2026» в Останкинском\nХорошее место\nПодборка  ·  26 мест\nСалоны красоты в районе Останкинский (Москва): окрашивание волос\nЯндекс Карты\nКак добраться\nАлексеевская\n310 м\n2\nМетро Алексеевская\n120 м\n4\nТакси от 279 ₽\nПоказать парковки\nОсобенности\nСалон красоты\nПарикмахерская\nWi-Fi\nВыезд на дом\nЦена женской стрижки:3900–5900 ₽\nЦена мужской стрижки:2500–3900 ₽\nПарикмахерские услуги:декапирование, окрашивание, тонирование, колорирование, для детей, лечение волос, мелирование, стрижка, брондирование, омбре, уходовые процедуры для волос, осветление , сложное окрашивание, контуринг волос\nСпособ оплаты:предоплата, наличными, банковским переводом\nАвтоматическая дверь\nЛифт\nПодробнее об организации\nПанорама\nПанорама\nВладелец следит за актуальностью информации\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n50 отзывов\nПо умолчанию\nПерсонал ·\n98%\nположительный\n46 отзывов\nСтрижка ·\n100%\nположительный\n30 отзывов\nКомпетентность ·\n96%\nположительный\n27 отзывов\nОкрашивание волос ·\n96%\nположительный\n25 отзывов\nМария П.\nЗнаток города 4 уровня\nПодписаться\n5 июня\nГоворят краткость сестра таланта, но когда пишешь отзыв про талантливого мастера, это становится невозможным))\n\nХочу поблагодарить мастера Фуада за потрясающий результат! Очень…\nещё\n1\nПосмотреть ответ организации\nКсения Сонникова\nЗнаток города 3 уровня\nПодписаться\n30 сентября\nХочу сказать огромное спасибо мастеру за спасение моих волос\nПришла с отросшим аиртачем, который уже порядком надоел, и очень переживала, что будет виден переход. Объяснила, что хочу исправить рисунок и сделать плавный переход без резких…\nещё\nПосмотреть ответ организации\nАнастасия\nЗнаток города 2 уровня\nПодписаться\n6 декабря 2025\nБольшое спасибо Фуаду за чудесное преображение моих длинных волос и профессионализм! Рада, что нашла мастера, который учёл все пожелания, а также предусмотрел смену пробора в разные стороны - в любом случае форма остаётся идеальной! Очень довольна результатом, 1000% рекомендую! 😇\n6\n3\nПосмотреть ответ организации\nПосмотреть все 50 отзывов\nРазместить рекламу\nСообщить об ошибке\nСправка\nСервисы\nМаршруты\nПробки\nРедактор Яндекс Карт\nСхема Метро\nСоздать карту\nAPI Карт\nПерсональное\nЗакладки и мой транспорт\nМои отзывы\nМои карты\nНастройки\nДля бизнеса\nЛичный кабинет\nРеклама в Картах\nДобавить свою организацию\nО сервисе\nПользовательское соглашение\nМобильное приложение\nПравила рекомендаций\nЯндекс Карты — выбирайте, где поесть, куда сходить, чем заняться.\n© 2001–2026 ООО «Яндекс»\nИсточник данных",
+      "text": "Поиск\nМаршруты\nКарты · Москва · Салоны красоты\nПарикмахер-колорист Магеррамов Фуад\nРейтинг \n5,0\n52 оценки\nНаграды:\nХорошее место 2026\nОткрыто до 22:00\n+7 (926) 694-79-11\nПоказать телефон\nпросп. Мира, 95, Москва\nМаршрут\nДобавить фото или видео\nЕще 223\nОбзор\nТовары и услуги\nФото\n233\nОтзывы\n50\nОсобенности\nПохожие места\nТовары и услуги\nОбновлено 2 октября\nОкрашивание волос с выходом из темного с сохранением качества волос\n60 смСложная работа в окрашивание волос - это выход из темного , стоимость зависит от густоты и длины волос\n29900 ₽\nОригинальный аиртач в сложных диаграммах , тонирование красителем Lebel\n60 смВсе виды современных, сложных техник в окрашивание волос\n29900 ₽\nИсправление цвета волос\n60 смПосле бытовых красителей , удаление пятен, выравнивание полотна волос , коррекция цвета\n27900 ₽\nПосмотреть все товары и услуги\nАдрес\nпросп. Мира, 95, Москва\nПоказать входыМаршрут\nКонтакты\n+7 (926) 694-79-11\nПоказать телефон\nparikmaher-kolorist-magerramov.clients.site\nВремя работы\nОткрыто до 22:00\nГрафик\nИсправить неточность\nПохожие места\nСмотреть все\nПарикмахер-стилист Екатерина Султанова\nПарикмахер-стилист Екатерина Султанова\nРейтинг \n4,4\n13 оценок\n13 оценок\nОткрыто до 20:00\nФото\nЕще 11\nЦены\nМиша Колорист\nМиша Колорист\nРейтинг \n5,0\n579 оценок\n579 оценок\nОткрыто до 22:00\nФото\nЕще 449\nЗаписаться онлайн\nАкция:\n10% скидка на первое посещение\nOksana Moroz studio\nOksana Moroz studio\nРейтинг \n4,8\n66 оценок\n66 оценок\nОткрыто до 22:00\nФото\nЕще 103\nЗаписаться онлайн\nВходит в подборки\nПодборка  ·  20 мест\nСалоны красоты с наградой «Хорошее место 2026» в Останкинском\nХорошее место\nПодборка  ·  26 мест\nСалоны красоты в районе Останкинский (Москва): окрашивание волос\nЯндекс Карты\nКак добраться\nАлексеевская\n310 м\n2\nМетро Алексеевская\n120 м\n4\nТакси от 339 ₽\nПоказать парковки\nОсобенности\nСалон красоты\nПарикмахерская\nWi-Fi\nВыезд на дом\nЦена женской стрижки:3900–5900 ₽\nЦена мужской стрижки:2500–3900 ₽\nПарикмахерские услуги:декапирование, окрашивание, тонирование, колорирование, для детей, лечение волос, мелирование, стрижка, брондирование, омбре, уходовые процедуры для волос, осветление , сложное окрашивание, контуринг волос\nСпособ оплаты:предоплата, наличными, банковским переводом\nАвтоматическая дверь\nЛифт\nПодробнее об организации\nПанорама\nПанорама\nВладелец следит за актуальностью информации\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n50 отзывов\nПо умолчанию\nПерсонал ·\n98%\nположительный\n47 отзывов\nСтрижка ·\n100%\nположительный\n29 отзывов\nКомпетентность ·\n96%\nположительный\n26 отзывов\nОкрашивание волос ·\n96%\nположительный\n24 отзыва\nМария П.\nЗнаток города 4 уровня\nПодписаться\n5 июня\nГоворят краткость сестра таланта, но когда пишешь отзыв про талантливого мастера, это становится невозможным))\n\nХочу поблагодарить мастера Фуада за потрясающий результат! Очень внимательный и аккуратный мастер, сразу чувствуется любовь к своему делу. Могу смело сказать, что благодаря ему мои волосы сейчас в своей прайм-эре 😍\n\nСначала я делала стрижку, и даже спустя несколько месяцев она прекрасно сохраняет форму и очень красиво отрастает. Спустя время захотелось сделать окрашивание, но переживала и за цвет, и за состояние волос. Обратилась к Фуаду и ни разу не пожалела :) Оттенок подобран точно и гармонично, волосы сохранили здоровье и выглядят ухоженными и живыми.\n\nСпасибо за профессионализм, внимание к деталям и бережное отношение к волосам. Очень рада, что нашла мастера, которому могу полностью доверять! 🥹\n1\nПосмотреть ответ организации\nКсения Сонникова\nЗнаток города 3 уровня\nПодписаться\n30 сентября\nХочу сказать огромное спасибо мастеру за спасение моих волос\nПришла с отросшим аиртачем, который уже порядком надоел, и очень переживала, что будет виден переход. Объяснила, что хочу исправить рисунок и сделать плавный переход без резких границ.\nФуад понял меня с полуслова, услышал все пожелания и сделал ИМЕННО то, что я хотела\n\nЕще раз, огромное спасибо!!\nПосмотреть ответ организации\nАнастасия\nЗнаток города 2 уровня\nПодписаться\n6 декабря 2025\nБольшое спасибо Фуаду за чудесное преображение моих длинных волос и профессионализм! Рада, что нашла мастера, который учёл все пожелания, а также предусмотрел смену пробора в разные стороны - в любом случае форма остаётся идеальной! Очень довольна результатом, 1000% рекомендую! 😇\n6\n3\nПосмотреть ответ организации\nПосмотреть все 50 отзывов\nРазместить рекламу\nСообщить об ошибке\nСправка\nСервисы\nМаршруты\nПробки\nРедактор Яндекс Карт\nСхема Метро\nСоздать карту\nAPI Карт\nПерсональное\nЗакладки и мой транспорт\nМои отзывы\nМои карты\nНастройки\nДля бизнеса\nЛичный кабинет\nРеклама в Картах\nДобавить свою организацию\nО сервисе\nПользовательское соглашение\nМобильное приложение\nПравила рекомендаций\nЯндекс Карты — выбирайте, где поесть, куда сходить, чем заняться.\n© 2001–2026 ООО «Яндекс»\nИсточник данных",
       "links": [
         {
           "text": "Маршруты",
@@ -1191,18 +1216,6 @@
           "href": "https://wa.me/79266947911?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
         },
         {
-          "text": "Миша Колорист",
-          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/"
-        },
-        {
-          "text": "Рейтинг \n5,0\n580 оценок\n580 оценок",
-          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/reviews/"
-        },
-        {
-          "text": "Фото",
-          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/gallery/"
-        },
-        {
           "text": "Парикмахер-стилист Екатерина Султанова",
           "href": "https://yandex.ru/maps/org/parikmakher_stilist_yekaterina_sultanova/94991853645/"
         },
@@ -1219,20 +1232,28 @@
           "href": "https://yandex.ru/maps/org/parikmakher_stilist_yekaterina_sultanova/94991853645/prices/"
         },
         {
-          "text": "Студия Правильной Стрижки",
-          "href": "https://yandex.ru/maps/org/studiya_pravilnoy_strizhki/119115016355/"
+          "text": "Миша Колорист",
+          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/"
         },
         {
-          "text": "Рейтинг \n5,0\n555 оценок\n(555)",
-          "href": "https://yandex.ru/maps/org/studiya_pravilnoy_strizhki/119115016355/reviews/"
+          "text": "Рейтинг \n5,0\n579 оценок\n579 оценок",
+          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/reviews/"
         },
         {
           "text": "Фото",
-          "href": "https://yandex.ru/maps/org/studiya_pravilnoy_strizhki/119115016355/gallery/"
+          "href": "https://yandex.ru/maps/org/misha_kolorist/175550252251/gallery/"
         },
         {
-          "text": "Цены",
-          "href": "https://yandex.ru/maps/org/studiya_pravilnoy_strizhki/119115016355/prices/"
+          "text": "Oksana Moroz studio",
+          "href": "https://yandex.ru/maps/org/oksana_moroz_studio/240555220329/"
+        },
+        {
+          "text": "Рейтинг \n4,8\n66 оценок\n66 оценок",
+          "href": "https://yandex.ru/maps/org/oksana_moroz_studio/240555220329/reviews/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.ru/maps/org/oksana_moroz_studio/240555220329/gallery/"
         },
         {
           "text": "Салоны красоты с наградой «Хорошее место 2026» в Останкинском",
@@ -1438,7 +1459,7 @@
       "title": "Отзывы о «Парикмахер-колорист Магеррамов Фуад» на Алексеевской, Москва, проспект Мира, 95 — Яндекс Карты",
       "heading": "Парикмахер-колорист Магеррамов Фуад",
       "meta": "Рейтинг 5,0 на основе 52 оценок и 50 отзывов о салоне красоты «Парикмахер-колорист Магеррамов Фуад», Ⓜ Алексеевская, Москва, проспект Мира, 95. Посетителям нравятся персонал, стрижка и компетентность. Награды: «Хорошее место 2026». Напишите свой отзыв о салоне красоты.",
-      "text": "Поиск\nМаршруты\nПарикмахер-колорист Магеррамов Фуад\nОбзор\nТовары и услуги\nФото\n233\nОтзывы\n50\nОсобенности\nПохожие места\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n50 отзывов\nПо умолчанию\nПерсонал ·\n98%\nположительный\n46 отзывов\nСтрижка ·\n100%\nположительный\n30 отзывов\nКомпетентность ·\n96%\nположительный\n27 отзывов\nОкрашивание волос ·\n96%\nположительный\n25 отзывов\nМария П.\nЗнаток города 4 уровня\nПодписаться\n5 июня\nГоворят краткость сестра таланта, но когда пишешь отзыв про талантливого мастера, это становится невозможным))\n\nХочу поблагодарить мастера Фуада за потрясающий результат! Очень внимательный и аккуратный мастер, сразу чувствуется любовь к своему делу. Могу смело сказать, что благодаря ему мои волосы сейчас в своей прайм-эре 😍\n\nСначала я делала стрижку, и даже спустя несколько месяцев она прекрасно сохраняет форму и очень красиво отрастает. Спустя время захотелось сделать окрашивание, но переживала и за цвет, и за состояние волос. Обратилась к Фуаду и ни разу не пожалела :) Оттенок подобран точно и гармонично, волосы сохранили здоровье и выглядят ухоженными и живыми.\n\nСпасибо за профессионализм, внимание к деталям и бережное отношение к волосам. Очень рада, что нашла мастера, которому могу полностью доверять! 🥹\n1\nПосмотреть ответ организации\nКсения Сонникова\nЗнаток города 3 уровня\nПодписаться\n30 сентября\nХочу сказать огромное спасибо мастеру за спасение моих волос\nПришла с отросшим аиртачем, который уже порядком надоел, и очень переживала, что будет виден переход. Объяснила, что хочу исправить рисунок и сделать плавный переход без резких границ.\nФуад понял меня с полуслова, услышал все пожелания и сделал ИМЕННО то, что я хотела\n\nЕще раз, огромное спасибо!!\nПосмотреть ответ организации\nАнастасия\nЗнаток города 2 уровня\nПодписаться\n6 декабря 2025\nБольшое спасибо Фуаду за чудесное преображение моих длинных волос и профессионализм! Рада, что нашла мастера, который учёл все пожелания, а также предусмотрел смену пробора в разные стороны - в любом случае форма остаётся идеальной! Очень довольна результатом, 1000% рекомендую! 😇\n6\n3\nПосмотреть ответ организации\nНадежда Забабуркина\nЗнаток города 3 уровня\nПодписаться\n19 декабря 2025\nПосоветовали Фуада , как хорошего колориста по волосам на м. Алексеевская . Естественно я воспользовалась Яндекс картой и нашла мастера Фуада на карте, чтобы заочно познакомится с ним и с его работами, ну и отзывы почитать ) . Увидев , что все отзывы положительные и большинство с фото , я посмотрела работы связанные с окрашиванием волос и сделала для себя вывод , что мастер профессионал с большой буквы .\nСреди отзывов , был один плохой отзыв , в котором пишут о плохом окрашивании и что сам мастер не прислушивается к клиентам , но меня этот сомнительный отзыв не смутил, так как его работы говорят об обратном ! Я записалась на окрашивание , по приходу мы обговорили нюансы , мастер все выслушал и учел мои пожелания. Я осталась очень довольна и смело могу рекомендовать всем, кто трепетно относится к своим волосам !\n2\n3\nПосмотреть ответ организации\nлиана д.\nЗнаток города 4 уровня\nПодписаться\n22 октября 2025\nФуад! Отличный профессионал!!!\nТочно попадает в цвет волос при смешивании красок , и кстати работает на премиум косметике , что не мало важно по демократичным ценам , что тоже очень приятно)\nОднозначно рекомендую !!!\n5\n3\nПосмотреть ответ организации\nМария В.\nЗнаток города 4 уровня\nПодписаться\n5 июля\nБыла у Фуада на стрижке. Очень понравился профессионализм, подход к работе и душевное общение. Были учтены все пожелания и получился шикарный результат.\nЯ осталась очень довольна🤍\n1\nПосмотреть ответ организации\nПолина Дмитриевна Ломова\nЗнаток города 5 уровня\nПодписаться\n13 ноября 2024\nФуад замечательный стилист! Настоящий профессионал своего дела!\nС первой минуты с ним чувствуется его профессионализм. Фуад расспросил меня обо всех приключениях моих волос, посоветовал уход и, конечно, очень красиво покрасил. Мои волосы остались здоровыми, но теперь они еще и красивые. Я очень благодарна Фуаду за его труд, ведь долго не решалась на окрашивание из-за неудачного опыта.\nСтрижка отдельный вид искусства, моя челка теперь лежит идеально даже без укладки, это волшебство\nФуад лучший!!!\n4\n3\nПосмотреть ответ организации\nИнкогнито 3983\nЗнаток города 2 уровня\nПодписаться\n3 ноября 2024\nПо рекомендации попала к мастеру Магеррамову Фуаду и осталась Очень довольна результатом (окрашивание и стрижка). От природы я брюнетка ,за полгода окрашиваний у других мастеров волосы были \"убиты\" . Фуаду удалось добиться равномерного цвета .После комплексного ухода волосы стали мягкие ,послушные . Стрижка укладывается просто движением руки .Наконец-то ,нашла мастера ,профессионала своего дела ! Спасибо,Фуад!\n4\n3\nПосмотреть ответ организации\nИнна Власова\nЗнаток города 3 уровня\nПодписаться\n7 октября 2024\nХочу выразить огромную благодарность Фуаду! Фуада нашла случайно через поисковик в яндексе, почитав отзывы, записалась и пришла на стрижку. Сразу скажу, мои волосы мягко говоря в не очень хорошем состоянии. Вьющиеся и русые от природы, на протяжении многих лет я их красила в блонд и выпрямляла. Как итог, 1,5 года назад волосы отвалились. Никто не мог даже подстричь нормально то, что осталось на голове. И естественно болезнь блондинок, когда никакой другой цвет не воспринимаешь, осталась. Рассказав всю историю Фуаду, мне было рекомендовано выбрать что-то одно: свой цвет, но прямые волосы или блонд, но кудрявый. Фуад не отказался от идеи блонда, но только после тест пряди, которая не прошла проверку на прочность :) На этом мы и остановились, Фуад подобрал необходимую косметику для волос, шикарно подстриг и пока отращиваем волосы. К чему все это - однозначно рекомендую Фуада, не пожалеете, действительно профессионал своего дела и в первую очередь ему не все равно, что будет с вашими волосами после.\n4\n2\nПосмотреть ответ организации\nАнна\nЗнаток города 6 уровня\nПодписаться\n29 июля 2024\nЗамечательное пространство- Freedom, очень душевная обстановка и приятная атмосфера.\nОтдельная благодарность Фуаду за индивидуальный подход к клиенту, деликатность в общении, внимание к деталям аккуратность - чувствуется рука профессионала!!!\nДелала у Фуада Уходовую процедуру «Счастье для волос» и стрижку. Я в восторге 🔥 Фуаду желаю процветания и побольше благодарных клиентов !\nБыла рада знакомству и до новых встреч 👋🏻\n4\n4\nПосмотреть ответ организации\nЗнаток\nЗнаток города 5 уровня\nПодписаться\n12 апреля 2024\nШикарная работа, кажется нашла своего мастера, который просто со слов делает вам тот цает о котором просили миллионов мастеров) Делали смывку и окрашивание в натуралтный цвет+уход Счастье. Получилось шикарно👍волосы отличного качества, работой мастера очень довольна, вернусь снова!) (фото после смывки и результат после окрашивания)\n4\n4\nПосмотреть ответ организации\nНаталья А.\nЗнаток города 5 уровня\nПодписаться\n1 февраля 2024\nЗнакомство с мастером Фуадом (заочное) было случайным, когда 15 декабря 2023 мне надо было прихорошиться к конкурсу бальных танцев, и я искала по высшему рейтингу в интернете парикмахера рядом с домом буквально накануне вечером, когда сроки буквально «горели». Тогда по времени договориться не удалось (у востребованного мастера расписание было расписано по часам), НО… он проявил ценное качество НЕРАВНОДУШИЕ и порекомендовал вместо себя двух мастеров (парикмахера и визажиста, причем призеров конкурсов), которые выручили в патовой ситуации и в 4 руки всего за 1 час (!) преобразили меня до неузнаваемости. Такое отношение и Фуада и двух девушек, пришедших на помощь, западает в душу…\nИ когда 6 января 2024 г. я в совершенно разобранном состоянии вернулась из поездки, с самолета к стоматологу с острой болью, а впереди светские рауты и гости - а я вся такая измученная и неухоженная, и мне было не до чего - моя мысль, лихорадочно напрягшись, мгновенно выцепила из памяти единственного человека, который вроде «скорой помощи» мог бы меня «спасти» - и это был Фуад. Конечно, и в этот раз все было в режиме аврала, и у Фуада были свои планы… НО… он их скорректировал и уважил… Зарезервировал на наш «сеанс» коворкинг-пространство прямо напротив. ст. метро «Алексеевская» (Проспект Мира, 95 - как раз рядом со мной) и уже через пару часов ждал меня.\nЯ предварительно кратко описала мастеру, что хотелось бы (покраска, стрижка, укладка), познакомила со своими привычными образами по фото на телефоне и дала мастеру карт-бланш, так как мне интересно было, как он меня видит. Мне было уделено много времени (3,5-4,0 часа), которые за приятной и непринужденной беседой пролетели незаметно, и то, что получилось на выходе, мне очень понравилось. Совсем другая я… Леди. Безусловно, с новым образом приходит новое ощущение уверенности (женщины поймут)… Так что Фуад обладает изысканным вкусом и чувством стиля, опытом творческой работы с краской, ему можно вверить себя, не опасаясь, что получится как-то не так… ОЧЕНЬ ВАЖНО знать, что есть профессионал, который не подведет и превратит тебя в «королевишну» при любом раскладе, просто потому что он ПРОФИ. А к тому же - ХОРОШИЙ ЧЕЛОВЕК. Всем рекомендую мастера Фуада.\nP.S. Надо быть готовым к тому, что у профессионала высокого класса, как Фуад, ценник выше среднего (это обусловлено самим уровнем квалификации). Кроме того, при работе в коворкинг-пространстве (для меня это было в новинку) на каждого клиента заранее закладывается определенное время, под которое мастером бронируется за оплату рабочее место в симпатичном салоне с удобной локацией (т.е. мастер рискует деньгами и просит к клиента небольшой аванс в качестве гарантии явки). Также я бы советовала записываться заранее, четко оговорить перечень услуг для более точного резервирования времени, а также не стоит опаздывать, дабы не красть у себя время.\n‼️И я рискну (чтобы продемонстрировать разницу «до» и «после» в знак благодарности Фуаду) приложить к отзыву свои фото 1) мой обычный образ (блузка в горошек), 2) мой видок 😂, в каком я явилась к Фуаду (измученная дорогой и зубной болью, такое только «доктору» 🤷‍♀️можно показать 😉), т.е. «ДО», и фото 3),4),5), 6)«ПОСЛЕ».\n4\n4\nПосмотреть ответ организации\nАлиса\nЗнаток города 12 уровня\n13 октября 2025\nХочу оставить искренний отзыв Фуаду!\nПришла с желанием получить максимально натуральный оттенок — без резких переходов, без «эффекта куклы», а именно такой цвет, который выглядел бы так, будто он мой от природы. И мастер справился на все 100%!\n\nРезультат превзошёл все ожидания: оттенок получился невероятно мягкий, живой, с естественными переливами и глубиной.\n\nМастер внимательно выслушал мои пожелания, предложил отличные варианты и работал с душой и профессионализмом. Всё прошло комфортно, без спешки и с заботой о состоянии волос.\n\nОднозначно рекомендую этого колориста всем, кто ищет индивидуальный подход! Спасибо за шикарный результат — я в восторге! 💫\n4\n3\nПосмотреть ответ организации\nРената Миримбекова\nЗнаток города 4 уровня\n6 июля 2025\nФуад замечательный мастер, с золотыми руками!\nСупер-стрижка! Длинные волосы в надежных руках. Даже не было страшно отрезать приличную длину😁\nРезультат превзошел ожидания: форма безупречная, волосы лежат идеально.\nЕсли вам что-то не подойдет - обязательно это скажет, направит и подправит☺️\nОбязательно вернусь и рекомендую всем!😍\n\n5\n3\nПосмотреть ответ организации\nКерим\nЗнаток города 4 уровня\nПодписаться\n19 декабря 2025\nФуад виртуозно владеет ножницами! А далеко не всем мастерам удается хорошо выполнить мужскую стрижку ножницами. Так что рекомендую всем, кто ценит качество и стиль\n1\n3\nПосмотреть ответ организации\nТатьяна Р.\nЗнаток города 2 уровня\nПодписаться\n2 января 2024\nФуад Магеррамов - Мастер с большой буквы! Знаю его более 10 лет и за это время в своем мастерстве и прфессионализме Фуад очень преуспел, не останавливается на достигнутом. Продолжает повышать квалификацию и совершенстаоваться в своём мастерстве. Очень приятный, внимательный, позитивный и надёжный, и просто хороший человек! Рекомендую обратиться к Фуаду и вы станете красивее и увереннее, и выйдете от этого мастера с прекрасным настроением!\nВсем добра и радости.\n\n4\n4\nПосмотреть ответ организации\nАделя С.\nЗнаток города 6 уровня\nПодписаться\n17 марта 2024\nПопала к Фуаду можно сказать случайно, когда в очередной раз пришлось искать нового мастера (\nУ меня супер короткая стрижка, и оказывается не все умеют просто подстричь так, чтобы волосы лежали сами.\nА Фуад умеет!\nОчень ловко и, что немаловажно, быстро, оформил идеальную форму.\nОсталась очень довольна, спасибо мастеру🙏\n4\n4\nПосмотреть ответ организации\nШоурум S.\nЗнаток города 3 уровня\nПодписаться\n25 июля 2024\nНашла мастера Фуада абсолютно случайно. Захотелось перемен),но с маленьким ребенком не выберешься,поэтому искала мастера по отзывам,рядом с домом и не пожалела! Фуад настоящий профессионал своего дела. Стрижка понравилась,приду осенью на окрашивание. Рекомендую!\n4\n4\nПосмотреть ответ организации\nЕкатерина К.\nЗнаток города 4 уровня\nПодписаться\n13 октября 2023\nПопала к Фуаду по рекомендации знакомой, осталась в полном восторге! Делали airtouch, сделали все довольно быстро, а главное получилось очень эффектно. Результатом осталась довольна, приду через пару недель на уход «счастье для волос». Рекомендую мастера однозначно!\n4\n4\nПосмотреть ответ организации\nСветлана Ишмаева\nЗнаток города 2 уровня\nПодписаться\n22 мая 2025\nОгромная благодарность Магеррамову Фуаду,мастер своего дела,прекрасный человек.Стрижкой очень довольна.\n4\n3\nПосмотреть ответ организации\nЕлена Богданова\nЗнаток города 4 уровня\nПодписаться\n18 декабря 2025\nФуад отличный колорист с большим опытом ! Прекрасное отношение к клиенту, всем рекомендую!\n2\n3\nПосмотреть ответ организации\nКристина С.\nЗнаток города 3 уровня\nПодписаться\n15 февраля 2023\nСпасибо моему дорогому Фуаду за волосы. У меня длинные волосы, и я очень боялась их испортить, зная, как часто портятся волосы после окрашиваний. Но мои волосы после Фуада в идеальном состоянии, мы экспертментируем с цветами, я всегда разная, делали осветления на длинные волосы (80 см), и при этом мои волосы всегда остаются здоровыми, мягкими, щелковистыми. И это самое настоящее чудо ❤️\n4\n4\nПосмотреть ответ организации\nВасилий Орлов\nЗнаток города 17 уровня\nПодписаться\n2 февраля 2025\nХожу на стрижку к фуаду еще со времен Элизе.\nЗа последние 5-6 лет ни разу никуда в другое место и не ходил.\nТеперь еще и с сыном ходим)\nСоветую на все 900%\n4\n3\nПосмотреть ответ организации\nМудрая сова\nЗнаток города 10 уровня\nПодписаться\n5 января 2024\nУзнала о Фуаде случайно из интернета. Нужен был выход из чёрного цвета в красное дерево. Мастер выше всяких похвал. Колдовал над моими волосами 8 часов. Результат превосходный. Рекомендую на 100%\n4\n4\nПосмотреть ответ организации\nАнна Владимировна\nЗнаток города 5 уровня\n14 декабря 2025\nЗаписалась на сложное окрашивание айртач к мастеру Магеррамову Фуаду ориентируясь на красивые фотографии в портфолио.\nОжидания были высокими , но реальность оказалась ужасной.\nВо-первых, мастер абсолютно не прислушался к моим пожеланиям . Я показывала референсы , но в итоге получила желтые, \"цыплячьи\" пряди у корней и неравномерный цвет по длине. Контраст между моими натуральными волосами и окрашенными переходами выглядит резко и неестественно.\nВо-вторых, процесс был далек от профессионального. Мастер постоянно отвлекался , время процедуры заняло больше обещанного. Самое страшное – это качество волос после окрашивания: они стали сухими, ломкими, как солома.\nВ-третьих , когда я выразила свое недовольство результатом, мастер и администратор повели себя непрофессионально. Вместо того чтобы предложить варианты исправления ситуации или хотя бы извиниться , они начали спорить и убеждать меня, что \"так и должно быть\".\nВ итоге я ушла из салона в слезах, с испорченными волосами и настроением, заплатив при этом немалую сумму. Пришлось обращаться к другому, действительно квалифицированному специалисту, чтобы исправить этот кошмар , что повлекло за собой дополнительные расходы на восстановление волос.\nНикому не советую рисковать своими волосами и нервами , посещая этого \"колориста\". Полное разочарование и непрофессионализм.\n3\n9\nПосмотреть ответ организации\nЕлена Р.\nЗнаток города 3 уровня\nПодписаться\n6 февраля 2023\nВот уже 7-ой год доверяю окраску и стрижку волос масстеру Фуаду. В этом году поменяла место жительства, но Мастера поменять не могу. Фуад настолько любит свою профессию, с такой любовью её исполняет. Всегда прислушивается к мнению клиента. Он очень талантливый, отзывчивый, дружелюбный, тактичный. Рекомендую Мастера (с большой буквы).\n4\n4\nПосмотреть ответ организации\nramka proshkin\nЗнаток города 4 уровня\n3 ноября 2024\nНаходясь в поисках мастера парикмахерского искусства рискнул записаться к Фуаду. Мое чутье меня не подвело и я попал в руки к мастеру, подстриг меня как нужно с учетом формы головы и типа волос. Отдельно отмечу работу с головой руками и инструментами. После барбершопов, где машинкой тебе взбивают голову жестче, чем спарринг партнер, который весит в два раза больше, у Фуада расслабляешься во время процесса, работает очень аккуратно. Спасибо за твое мастерство!\n4\n4\nПосмотреть ответ организации\nДарья Прокофьева\nЗнаток города 3 уровня\nПодписаться\n30 января 2024\nФауд отличный мастер! Очень рекомендую, цвет, стрижка, уход - все отлично! Всегда готов помочь советом и ответить на вопросы\n4\n4\nПосмотреть ответ организации\nandrey F.\nЗнаток города 4 уровня\nПодписаться\n21 октября 2025\nФуад, отличный мастер. Очень рад, что есть такие мастера, которые могут подобрать стрижку\n4\n3\nПосмотреть ответ организации\nА\nАнонимный отзыв\n19 июля 2023\nПриходили к Фуаду Магеррамову на стрижку с 16-ти летним подростком. Остались очень довольны! Понравились и подобранная форма стрижки и ее реализация) Фуад - большой профессионал и приятный в общении человек. Будем обращаться еще!\n4\n4\nПосмотреть ответ организации\nS.K.\nЗнаток города 11 уровня\n27 октября 2023\nОбратилась к мастеру для окрашивания в стиле airtouch. Мастер не только добился необходимого мне равномерного оттенка ( ранее было окрашивание хной и различными красителями в темных оттенках) , но и самое главное сохранил качество волос при осветлении, что очень важно! Однозначно рекомендую!\n\nХочу дополнить отзыв. После летнего периода, когда волосы пострадали от солнца и активного пользования щипцами для завивки, обратилась к Фуаду. Была выполнена стрижка и уход « счастье для волос» от японского бренда. Результат потрясающий ( фото прилагаю). Волосы стали объемнее , структура плотнее, приобрели отличный внешний вид. Очень нравится результат после данного ухода. Волос у меня пористый и вьющийся , при этом осветленный. Данный уход спасения для моих волос. В отличии от других косметический процедур ( по типу кератинового выпрямлени) , данный уход направлен не только на улучшение внешнего вида, но именно на лечение ваших волос. Эффект у данной процедуры накопительный👌Девочки всем рекомендую попробовать!\n\n3\n4\nПосмотреть ответ организации\nMarina C.\nЗнаток города 4 уровня\nПодписаться\n8 ноября 2023\nОчень хороший мастер! Стрижка и тонирование выполнены на высшем уровне! Однозначно рекомендация к посещению!\n4\n4\nПосмотреть ответ организации\nZ T\nЗнаток города 4 уровня\n27 октября 2023\nПо рекомендации попала к данному мастеру. После первого окрашивания осталось очень довольна. Много лет окрашивала волосы в блонд. Мастер работает красками и косметикой от японского производителя. Эффект потрясающий. Получили чистый и холодный Тотал блонд А самое главное сохранено качество волос. Также после стрижки у данного мастера, причёска легко укладывается и долгове время отлично держится точка уже около двух лет хожу к данному мастеру. Всем рекомендую!\n4\n4\nПосмотреть ответ организации\nИнкогнито 1192\nЗнаток города 3 уровня\nПодписаться\n18 января 2024\nБыла у мастера Фуада на стрижке волос, очень понравилось как лежат волосы и сам Фуад приятный человек, рекомендую!\n4\n4\nПосмотреть ответ организации\nЕлена Понаровкина\nЗнаток города 4 уровня\nПодписаться\n9 февраля 2023\nУже не первый раз доверяю окрашивание своих волос Фуаду, и всегда результат великолепный. Фуад профессионал в своём деле! А ещё очень добрый, дружелюбный, тактичный и отзывчивый.\n4\n4\nПосмотреть ответ организации\nMasha P.\nЗнаток города 3 уровня\nПодписаться\n1 февраля 2023\nУже несколько лет доверяю свои волосы мастеру Фуаду) Стрижка всегда в результате выглядит красиво, комфортно укладывается в домашних условиях) Рекомендую 😊\n4\n4\nПосмотреть ответ организации\nДмитрий Истягин\nЗнаток города 6 уровня\nПодписаться\n19 февраля 2023\nФуад- профессионал своего дела. Уже 7 лет хожу к нему и все его работы великолепны. Мастер от бога, все выполнено с душой и качественно, всегда готов подсказать и посоветовать, как будет лучше.\n5\n4\nПосмотреть ответ организации\nКсения Трохимец\nЗнаток города 6 уровня\n29 декабря 2023\nОбратилась к Фуаду по рекомендации, чтобы покрасить волосы дочери. Результат превзошел все наши самые смелые ожидания. Плюс он смог проработать и устранить историю с неудачным окрашиванием до, и не уехал, несмотря на то, что время вышло, а закончил работу до конца, хоть и в ночи. Удачи и процветания мастеру🙏\n4\n4\nПосмотреть ответ организации\nKS\nЗнаток города 3 уровня\n18 февраля 2024\nФуад мастер с многолетним опытом, что распологает к доверию и уверенности в стрижке волос, что очень важно для клиента, кроме этого мастер умеет увидеть и понять сразу, что подойдет клиенту и особености укладки волос и то как волосы будут лежать. Рекомендую всем!!!\n\n4\n4\nПосмотреть ответ организации\nalyona nazarmamadova\nЗнаток города 3 уровня\nПодписаться\n14 января 2024\nМастер Фуад реально МАСТЕР своего дела. Можно сказать вернул к жизни мои волосы…я очень рекомендую этого мастера, уверяю вас не пожалеете так же, как не пожалела я!\n4\n4\nПосмотреть ответ организации\nДмитрий М.\nЗнаток города 4 уровня\nПодписаться\n17 декабря 2025\nФуад профессионал , стригусь давно и всем рекомендую !\n4\n3\nПосмотреть ответ организации\nИрина Коршева\nЗнаток города 3 уровня\nПодписаться\n17 июля 2023\nПришла с очень длинными и не очень здоровыми волосами, сделали стрижку и 6-компонентный уход. Волосы сразу ожили 🌸\n4\n4\nПосмотреть ответ организации\nКсения Б.\nЗнаток города 11 уровня\nПодписаться\n9 апреля 2023\nОтличный мастер! Без лишних слов понимает что и как нужно сделать, получился очень благородный блонд.\n4\n4\nПосмотреть ответ организации\nТина\nЗнаток города 6 уровня\nПодписаться\n18 июля 2023\nФуад мастер своего дела! Была у него на стрижке и на окрашивании - результат выше всяких похвал!!! Спасибо))))\n4\n4\nПосмотреть ответ организации\nОксана С.\nЗнаток города 5 уровня\nПодписаться\n15 декабря 2023\nФуад - мастер своего дела! Специалист который умеет слышать клиента 👍 благодарю за Ваше мастерство и профессионализм 👏👏👏\n4\n4\nПосмотреть ответ организации\nВалентина Садовая\nЗнаток города 3 уровня\nПодписаться\n16 апреля 2023\nФуад очень хорошо слелал сыну стрижку, мастер своего дела 👌 прийдем еше💯\n4\n4\nПосмотреть ответ организации\nКатя М.\nЗнаток города 4 уровня\n8 ноября 2025\nФуад, отличный мастер и колорист , золотые руки\n5\n3\nПосмотреть ответ организации\nТатьяна М\nЗнаток города 3 уровня\n1 июля 2023\nОсобую благодарность хочу выразить мастеру Фуаду. Профессионал своего дела! Внимательный, добрый, располагающий к себе человек!\n\n4\n4\nПосмотреть ответ организации\nEilaf Mourad\nЗнаток города 3 уровня\n17 декабря 2025\nФуад замечательный мастер, знаю его давно, а то что здесь появились два отзыва негативных про него то это ложь ! Хочу , чтобы люди которые будут искать мастера на районе и читают отзывы, понимали , что эти плохие отзывы о нем пишут люди, которые не были у него !\n3\n3\nПосмотреть ответ организации\nОльга Жаркова\nЗнаток города 7 уровня\nПодписаться\n9 сентября 2024\nОчень понравилась работа мастера Фуада\n4\n4\nПосмотреть ответ организации\n1\n2\nНаписать отзыв",
+      "text": "Поиск\nМаршруты\nПарикмахер-колорист Магеррамов Фуад\nОбзор\nТовары и услуги\nФото\n233\nОтзывы\n50\nОсобенности\nПохожие места\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n5,0\n52 оценки\nОцените это место\n50 отзывов\nПо умолчанию\nПерсонал ·\n98%\nположительный\n47 отзывов\nСтрижка ·\n100%\nположительный\n29 отзывов\nКомпетентность ·\n96%\nположительный\n26 отзывов\nОкрашивание волос ·\n96%\nположительный\n24 отзыва\nМария П.\nЗнаток города 4 уровня\nПодписаться\n5 июня\nГоворят краткость сестра таланта, но когда пишешь отзыв про талантливого мастера, это становится невозможным))\n\nХочу поблагодарить мастера Фуада за потрясающий результат! Очень внимательный и аккуратный мастер, сразу чувствуется любовь к своему делу. Могу смело сказать, что благодаря ему мои волосы сейчас в своей прайм-эре 😍\n\nСначала я делала стрижку, и даже спустя несколько месяцев она прекрасно сохраняет форму и очень красиво отрастает. Спустя время захотелось сделать окрашивание, но переживала и за цвет, и за состояние волос. Обратилась к Фуаду и ни разу не пожалела :) Оттенок подобран точно и гармонично, волосы сохранили здоровье и выглядят ухоженными и живыми.\n\nСпасибо за профессионализм, внимание к деталям и бережное отношение к волосам. Очень рада, что нашла мастера, которому могу полностью доверять! 🥹\n1\nПосмотреть ответ организации\nКсения Сонникова\nЗнаток города 3 уровня\nПодписаться\n30 сентября\nХочу сказать огромное спасибо мастеру за спасение моих волос\nПришла с отросшим аиртачем, который уже порядком надоел, и очень переживала, что будет виден переход. Объяснила, что хочу исправить рисунок и сделать плавный переход без резких границ.\nФуад понял меня с полуслова, услышал все пожелания и сделал ИМЕННО то, что я хотела\n\nЕще раз, огромное спасибо!!\nПосмотреть ответ организации\nАнастасия\nЗнаток города 2 уровня\nПодписаться\n6 декабря 2025\nБольшое спасибо Фуаду за чудесное преображение моих длинных волос и профессионализм! Рада, что нашла мастера, который учёл все пожелания, а также предусмотрел смену пробора в разные стороны - в любом случае форма остаётся идеальной! Очень довольна результатом, 1000% рекомендую! 😇\n6\n3\nПосмотреть ответ организации\nНадежда Забабуркина\nЗнаток города 3 уровня\nПодписаться\n19 декабря 2025\nПосоветовали Фуада , как хорошего колориста по волосам на м. Алексеевская . Естественно я воспользовалась Яндекс картой и нашла мастера Фуада на карте, чтобы заочно познакомится с ним и с его работами, ну и отзывы почитать ) . Увидев , что все отзывы положительные и большинство с фото , я посмотрела работы связанные с окрашиванием волос и сделала для себя вывод , что мастер профессионал с большой буквы .\nСреди отзывов , был один плохой отзыв , в котором пишут о плохом окрашивании и что сам мастер не прислушивается к клиентам , но меня этот сомнительный отзыв не смутил, так как его работы говорят об обратном ! Я записалась на окрашивание , по приходу мы обговорили нюансы , мастер все выслушал и учел мои пожелания. Я осталась очень довольна и смело могу рекомендовать всем, кто трепетно относится к своим волосам !\n2\n3\nПосмотреть ответ организации\nлиана д.\nЗнаток города 4 уровня\nПодписаться\n22 октября 2025\nФуад! Отличный профессионал!!!\nТочно попадает в цвет волос при смешивании красок , и кстати работает на премиум косметике , что не мало важно по демократичным ценам , что тоже очень приятно)\nОднозначно рекомендую !!!\n5\n3\nПосмотреть ответ организации\nМария В.\nЗнаток города 4 уровня\nПодписаться\n5 июля\nБыла у Фуада на стрижке. Очень понравился профессионализм, подход к работе и душевное общение. Были учтены все пожелания и получился шикарный результат.\nЯ осталась очень довольна🤍\n1\nПосмотреть ответ организации\nПолина Дмитриевна Ломова\nЗнаток города 5 уровня\nПодписаться\n13 ноября 2024\nФуад замечательный стилист! Настоящий профессионал своего дела!\nС первой минуты с ним чувствуется его профессионализм. Фуад расспросил меня обо всех приключениях моих волос, посоветовал уход и, конечно, очень красиво покрасил. Мои волосы остались здоровыми, но теперь они еще и красивые. Я очень благодарна Фуаду за его труд, ведь долго не решалась на окрашивание из-за неудачного опыта.\nСтрижка отдельный вид искусства, моя челка теперь лежит идеально даже без укладки, это волшебство\nФуад лучший!!!\n4\n3\nПосмотреть ответ организации\nИнкогнито 3983\nЗнаток города 2 уровня\nПодписаться\n3 ноября 2024\nПо рекомендации попала к мастеру Магеррамову Фуаду и осталась Очень довольна результатом (окрашивание и стрижка). От природы я брюнетка ,за полгода окрашиваний у других мастеров волосы были \"убиты\" . Фуаду удалось добиться равномерного цвета .После комплексного ухода волосы стали мягкие ,послушные . Стрижка укладывается просто движением руки .Наконец-то ,нашла мастера ,профессионала своего дела ! Спасибо,Фуад!\n4\n3\nПосмотреть ответ организации\nИнна Власова\nЗнаток города 3 уровня\nПодписаться\n7 октября 2024\nХочу выразить огромную благодарность Фуаду! Фуада нашла случайно через поисковик в яндексе, почитав отзывы, записалась и пришла на стрижку. Сразу скажу, мои волосы мягко говоря в не очень хорошем состоянии. Вьющиеся и русые от природы, на протяжении многих лет я их красила в блонд и выпрямляла. Как итог, 1,5 года назад волосы отвалились. Никто не мог даже подстричь нормально то, что осталось на голове. И естественно болезнь блондинок, когда никакой другой цвет не воспринимаешь, осталась. Рассказав всю историю Фуаду, мне было рекомендовано выбрать что-то одно: свой цвет, но прямые волосы или блонд, но кудрявый. Фуад не отказался от идеи блонда, но только после тест пряди, которая не прошла проверку на прочность :) На этом мы и остановились, Фуад подобрал необходимую косметику для волос, шикарно подстриг и пока отращиваем волосы. К чему все это - однозначно рекомендую Фуада, не пожалеете, действительно профессионал своего дела и в первую очередь ему не все равно, что будет с вашими волосами после.\n4\n2\nПосмотреть ответ организации\nАнна\nЗнаток города 6 уровня\nПодписаться\n29 июля 2024\nЗамечательное пространство- Freedom, очень душевная обстановка и приятная атмосфера.\nОтдельная благодарность Фуаду за индивидуальный подход к клиенту, деликатность в общении, внимание к деталям аккуратность - чувствуется рука профессионала!!!\nДелала у Фуада Уходовую процедуру «Счастье для волос» и стрижку. Я в восторге 🔥 Фуаду желаю процветания и побольше благодарных клиентов !\nБыла рада знакомству и до новых встреч 👋🏻\n4\n4\nПосмотреть ответ организации\nЗнаток\nЗнаток города 5 уровня\nПодписаться\n12 апреля 2024\nШикарная работа, кажется нашла своего мастера, который просто со слов делает вам тот цает о котором просили миллионов мастеров) Делали смывку и окрашивание в натуралтный цвет+уход Счастье. Получилось шикарно👍волосы отличного качества, работой мастера очень довольна, вернусь снова!) (фото после смывки и результат после окрашивания)\n4\n4\nПосмотреть ответ организации\nНаталья А.\nЗнаток города 5 уровня\nПодписаться\n1 февраля 2024\nЗнакомство с мастером Фуадом (заочное) было случайным, когда 15 декабря 2023 мне надо было прихорошиться к конкурсу бальных танцев, и я искала по высшему рейтингу в интернете парикмахера рядом с домом буквально накануне вечером, когда сроки буквально «горели». Тогда по времени договориться не удалось (у востребованного мастера расписание было расписано по часам), НО… он проявил ценное качество НЕРАВНОДУШИЕ и порекомендовал вместо себя двух мастеров (парикмахера и визажиста, причем призеров конкурсов), которые выручили в патовой ситуации и в 4 руки всего за 1 час (!) преобразили меня до неузнаваемости. Такое отношение и Фуада и двух девушек, пришедших на помощь, западает в душу…\nИ когда 6 января 2024 г. я в совершенно разобранном состоянии вернулась из поездки, с самолета к стоматологу с острой болью, а впереди светские рауты и гости - а я вся такая измученная и неухоженная, и мне было не до чего - моя мысль, лихорадочно напрягшись, мгновенно выцепила из памяти единственного человека, который вроде «скорой помощи» мог бы меня «спасти» - и это был Фуад. Конечно, и в этот раз все было в режиме аврала, и у Фуада были свои планы… НО… он их скорректировал и уважил… Зарезервировал на наш «сеанс» коворкинг-пространство прямо напротив. ст. метро «Алексеевская» (Проспект Мира, 95 - как раз рядом со мной) и уже через пару часов ждал меня.\nЯ предварительно кратко описала мастеру, что хотелось бы (покраска, стрижка, укладка), познакомила со своими привычными образами по фото на телефоне и дала мастеру карт-бланш, так как мне интересно было, как он меня видит. Мне было уделено много времени (3,5-4,0 часа), которые за приятной и непринужденной беседой пролетели незаметно, и то, что получилось на выходе, мне очень понравилось. Совсем другая я… Леди. Безусловно, с новым образом приходит новое ощущение уверенности (женщины поймут)… Так что Фуад обладает изысканным вкусом и чувством стиля, опытом творческой работы с краской, ему можно вверить себя, не опасаясь, что получится как-то не так… ОЧЕНЬ ВАЖНО знать, что есть профессионал, который не подведет и превратит тебя в «королевишну» при любом раскладе, просто потому что он ПРОФИ. А к тому же - ХОРОШИЙ ЧЕЛОВЕК. Всем рекомендую мастера Фуада.\nP.S. Надо быть готовым к тому, что у профессионала высокого класса, как Фуад, ценник выше среднего (это обусловлено самим уровнем квалификации). Кроме того, при работе в коворкинг-пространстве (для меня это было в новинку) на каждого клиента заранее закладывается определенное время, под которое мастером бронируется за оплату рабочее место в симпатичном салоне с удобной локацией (т.е. мастер рискует деньгами и просит к клиента небольшой аванс в качестве гарантии явки). Также я бы советовала записываться заранее, четко оговорить перечень услуг для более точного резервирования времени, а также не стоит опаздывать, дабы не красть у себя время.\n‼️И я рискну (чтобы продемонстрировать разницу «до» и «после» в знак благодарности Фуаду) приложить к отзыву свои фото 1) мой обычный образ (блузка в горошек), 2) мой видок 😂, в каком я явилась к Фуаду (измученная дорогой и зубной болью, такое только «доктору» 🤷‍♀️можно показать 😉), т.е. «ДО», и фото 3),4),5), 6)«ПОСЛЕ».\n4\n4\nПосмотреть ответ организации\nАлиса\nЗнаток города 12 уровня\n13 октября 2025\nХочу оставить искренний отзыв Фуаду!\nПришла с желанием получить максимально натуральный оттенок — без резких переходов, без «эффекта куклы», а именно такой цвет, который выглядел бы так, будто он мой от природы. И мастер справился на все 100%!\n\nРезультат превзошёл все ожидания: оттенок получился невероятно мягкий, живой, с естественными переливами и глубиной.\n\nМастер внимательно выслушал мои пожелания, предложил отличные варианты и работал с душой и профессионализмом. Всё прошло комфортно, без спешки и с заботой о состоянии волос.\n\nОднозначно рекомендую этого колориста всем, кто ищет индивидуальный подход! Спасибо за шикарный результат — я в восторге! 💫\n4\n3\nПосмотреть ответ организации\nРената Миримбекова\nЗнаток города 4 уровня\n6 июля 2025\nФуад замечательный мастер, с золотыми руками!\nСупер-стрижка! Длинные волосы в надежных руках. Даже не было страшно отрезать приличную длину😁\nРезультат превзошел ожидания: форма безупречная, волосы лежат идеально.\nЕсли вам что-то не подойдет - обязательно это скажет, направит и подправит☺️\nОбязательно вернусь и рекомендую всем!😍\n\n5\n3\nПосмотреть ответ организации\nКерим\nЗнаток города 4 уровня\nПодписаться\n19 декабря 2025\nФуад виртуозно владеет ножницами! А далеко не всем мастерам удается хорошо выполнить мужскую стрижку ножницами. Так что рекомендую всем, кто ценит качество и стиль\n1\n3\nПосмотреть ответ организации\nТатьяна Р.\nЗнаток города 2 уровня\nПодписаться\n2 января 2024\nФуад Магеррамов - Мастер с большой буквы! Знаю его более 10 лет и за это время в своем мастерстве и прфессионализме Фуад очень преуспел, не останавливается на достигнутом. Продолжает повышать квалификацию и совершенстаоваться в своём мастерстве. Очень приятный, внимательный, позитивный и надёжный, и просто хороший человек! Рекомендую обратиться к Фуаду и вы станете красивее и увереннее, и выйдете от этого мастера с прекрасным настроением!\nВсем добра и радости.\n\n4\n4\nПосмотреть ответ организации\nАделя С.\nЗнаток города 6 уровня\nПодписаться\n17 марта 2024\nПопала к Фуаду можно сказать случайно, когда в очередной раз пришлось искать нового мастера (\nУ меня супер короткая стрижка, и оказывается не все умеют просто подстричь так, чтобы волосы лежали сами.\nА Фуад умеет!\nОчень ловко и, что немаловажно, быстро, оформил идеальную форму.\nОсталась очень довольна, спасибо мастеру🙏\n4\n4\nПосмотреть ответ организации\nШоурум S.\nЗнаток города 3 уровня\nПодписаться\n25 июля 2024\nНашла мастера Фуада абсолютно случайно. Захотелось перемен),но с маленьким ребенком не выберешься,поэтому искала мастера по отзывам,рядом с домом и не пожалела! Фуад настоящий профессионал своего дела. Стрижка понравилась,приду осенью на окрашивание. Рекомендую!\n4\n4\nПосмотреть ответ организации\nЕкатерина К.\nЗнаток города 4 уровня\nПодписаться\n13 октября 2023\nПопала к Фуаду по рекомендации знакомой, осталась в полном восторге! Делали airtouch, сделали все довольно быстро, а главное получилось очень эффектно. Результатом осталась довольна, приду через пару недель на уход «счастье для волос». Рекомендую мастера однозначно!\n4\n4\nПосмотреть ответ организации\nСветлана Ишмаева\nЗнаток города 2 уровня\nПодписаться\n22 мая 2025\nОгромная благодарность Магеррамову Фуаду,мастер своего дела,прекрасный человек.Стрижкой очень довольна.\n4\n3\nПосмотреть ответ организации\nЕлена Богданова\nЗнаток города 4 уровня\nПодписаться\n18 декабря 2025\nФуад отличный колорист с большим опытом ! Прекрасное отношение к клиенту, всем рекомендую!\n2\n3\nПосмотреть ответ организации\nКристина С.\nЗнаток города 3 уровня\nПодписаться\n15 февраля 2023\nСпасибо моему дорогому Фуаду за волосы. У меня длинные волосы, и я очень боялась их испортить, зная, как часто портятся волосы после окрашиваний. Но мои волосы после Фуада в идеальном состоянии, мы экспертментируем с цветами, я всегда разная, делали осветления на длинные волосы (80 см), и при этом мои волосы всегда остаются здоровыми, мягкими, щелковистыми. И это самое настоящее чудо ❤️\n4\n4\nПосмотреть ответ организации\nВасилий Орлов\nЗнаток города 17 уровня\nПодписаться\n2 февраля 2025\nХожу на стрижку к фуаду еще со времен Элизе.\nЗа последние 5-6 лет ни разу никуда в другое место и не ходил.\nТеперь еще и с сыном ходим)\nСоветую на все 900%\n4\n3\nПосмотреть ответ организации\nМудрая сова\nЗнаток города 10 уровня\nПодписаться\n5 января 2024\nУзнала о Фуаде случайно из интернета. Нужен был выход из чёрного цвета в красное дерево. Мастер выше всяких похвал. Колдовал над моими волосами 8 часов. Результат превосходный. Рекомендую на 100%\n4\n4\nПосмотреть ответ организации\nАнна Владимировна\nЗнаток города 5 уровня\n14 декабря 2025\nЗаписалась на сложное окрашивание айртач к мастеру Магеррамову Фуаду ориентируясь на красивые фотографии в портфолио.\nОжидания были высокими , но реальность оказалась ужасной.\nВо-первых, мастер абсолютно не прислушался к моим пожеланиям . Я показывала референсы , но в итоге получила желтые, \"цыплячьи\" пряди у корней и неравномерный цвет по длине. Контраст между моими натуральными волосами и окрашенными переходами выглядит резко и неестественно.\nВо-вторых, процесс был далек от профессионального. Мастер постоянно отвлекался , время процедуры заняло больше обещанного. Самое страшное – это качество волос после окрашивания: они стали сухими, ломкими, как солома.\nВ-третьих , когда я выразила свое недовольство результатом, мастер и администратор повели себя непрофессионально. Вместо того чтобы предложить варианты исправления ситуации или хотя бы извиниться , они начали спорить и убеждать меня, что \"так и должно быть\".\nВ итоге я ушла из салона в слезах, с испорченными волосами и настроением, заплатив при этом немалую сумму. Пришлось обращаться к другому, действительно квалифицированному специалисту, чтобы исправить этот кошмар , что повлекло за собой дополнительные расходы на восстановление волос.\nНикому не советую рисковать своими волосами и нервами , посещая этого \"колориста\". Полное разочарование и непрофессионализм.\n3\n9\nПосмотреть ответ организации\nЕлена Р.\nЗнаток города 3 уровня\nПодписаться\n6 февраля 2023\nВот уже 7-ой год доверяю окраску и стрижку волос масстеру Фуаду. В этом году поменяла место жительства, но Мастера поменять не могу. Фуад настолько любит свою профессию, с такой любовью её исполняет. Всегда прислушивается к мнению клиента. Он очень талантливый, отзывчивый, дружелюбный, тактичный. Рекомендую Мастера (с большой буквы).\n4\n4\nПосмотреть ответ организации\nramka proshkin\nЗнаток города 4 уровня\n3 ноября 2024\nНаходясь в поисках мастера парикмахерского искусства рискнул записаться к Фуаду. Мое чутье меня не подвело и я попал в руки к мастеру, подстриг меня как нужно с учетом формы головы и типа волос. Отдельно отмечу работу с головой руками и инструментами. После барбершопов, где машинкой тебе взбивают голову жестче, чем спарринг партнер, который весит в два раза больше, у Фуада расслабляешься во время процесса, работает очень аккуратно. Спасибо за твое мастерство!\n4\n4\nПосмотреть ответ организации\nДарья Прокофьева\nЗнаток города 3 уровня\nПодписаться\n30 января 2024\nФауд отличный мастер! Очень рекомендую, цвет, стрижка, уход - все отлично! Всегда готов помочь советом и ответить на вопросы\n4\n4\nПосмотреть ответ организации\nandrey F.\nЗнаток города 4 уровня\nПодписаться\n21 октября 2025\nФуад, отличный мастер. Очень рад, что есть такие мастера, которые могут подобрать стрижку\n4\n3\nПосмотреть ответ организации\nА\nАнонимный отзыв\n19 июля 2023\nПриходили к Фуаду Магеррамову на стрижку с 16-ти летним подростком. Остались очень довольны! Понравились и подобранная форма стрижки и ее реализация) Фуад - большой профессионал и приятный в общении человек. Будем обращаться еще!\n4\n4\nПосмотреть ответ организации\nS.K.\nЗнаток города 11 уровня\n27 октября 2023\nОбратилась к мастеру для окрашивания в стиле airtouch. Мастер не только добился необходимого мне равномерного оттенка ( ранее было окрашивание хной и различными красителями в темных оттенках) , но и самое главное сохранил качество волос при осветлении, что очень важно! Однозначно рекомендую!\n\nХочу дополнить отзыв. После летнего периода, когда волосы пострадали от солнца и активного пользования щипцами для завивки, обратилась к Фуаду. Была выполнена стрижка и уход « счастье для волос» от японского бренда. Результат потрясающий ( фото прилагаю). Волосы стали объемнее , структура плотнее, приобрели отличный внешний вид. Очень нравится результат после данного ухода. Волос у меня пористый и вьющийся , при этом осветленный. Данный уход спасения для моих волос. В отличии от других косметический процедур ( по типу кератинового выпрямлени) , данный уход направлен не только на улучшение внешнего вида, но именно на лечение ваших волос. Эффект у данной процедуры накопительный👌Девочки всем рекомендую попробовать!\n\n3\n4\nПосмотреть ответ организации\nMarina C.\nЗнаток города 4 уровня\nПодписаться\n8 ноября 2023\nОчень хороший мастер! Стрижка и тонирование выполнены на высшем уровне! Однозначно рекомендация к посещению!\n4\n4\nПосмотреть ответ организации\nZ T\nЗнаток города 4 уровня\n27 октября 2023\nПо рекомендации попала к данному мастеру. После первого окрашивания осталось очень довольна. Много лет окрашивала волосы в блонд. Мастер работает красками и косметикой от японского производителя. Эффект потрясающий. Получили чистый и холодный Тотал блонд А самое главное сохранено качество волос. Также после стрижки у данного мастера, причёска легко укладывается и долгове время отлично держится точка уже около двух лет хожу к данному мастеру. Всем рекомендую!\n4\n4\nПосмотреть ответ организации\nИнкогнито 1192\nЗнаток города 3 уровня\nПодписаться\n18 января 2024\nБыла у мастера Фуада на стрижке волос, очень понравилось как лежат волосы и сам Фуад приятный человек, рекомендую!\n4\n4\nПосмотреть ответ организации\nЕлена Понаровкина\nЗнаток города 4 уровня\nПодписаться\n9 февраля 2023\nУже не первый раз доверяю окрашивание своих волос Фуаду, и всегда результат великолепный. Фуад профессионал в своём деле! А ещё очень добрый, дружелюбный, тактичный и отзывчивый.\n4\n4\nПосмотреть ответ организации\nMasha P.\nЗнаток города 3 уровня\nПодписаться\n1 февраля 2023\nУже несколько лет доверяю свои волосы мастеру Фуаду) Стрижка всегда в результате выглядит красиво, комфортно укладывается в домашних условиях) Рекомендую 😊\n4\n4\nПосмотреть ответ организации\nДмитрий Истягин\nЗнаток города 6 уровня\nПодписаться\n19 февраля 2023\nФуад- профессионал своего дела. Уже 7 лет хожу к нему и все его работы великолепны. Мастер от бога, все выполнено с душой и качественно, всегда готов подсказать и посоветовать, как будет лучше.\n5\n4\nПосмотреть ответ организации\nКсения Трохимец\nЗнаток города 6 уровня\n29 декабря 2023\nОбратилась к Фуаду по рекомендации, чтобы покрасить волосы дочери. Результат превзошел все наши самые смелые ожидания. Плюс он смог проработать и устранить историю с неудачным окрашиванием до, и не уехал, несмотря на то, что время вышло, а закончил работу до конца, хоть и в ночи. Удачи и процветания мастеру🙏\n4\n4\nПосмотреть ответ организации\nKS\nЗнаток города 3 уровня\n18 февраля 2024\nФуад мастер с многолетним опытом, что распологает к доверию и уверенности в стрижке волос, что очень важно для клиента, кроме этого мастер умеет увидеть и понять сразу, что подойдет клиенту и особености укладки волос и то как волосы будут лежать. Рекомендую всем!!!\n\n4\n4\nПосмотреть ответ организации\nalyona nazarmamadova\nЗнаток города 3 уровня\nПодписаться\n14 января 2024\nМастер Фуад реально МАСТЕР своего дела. Можно сказать вернул к жизни мои волосы…я очень рекомендую этого мастера, уверяю вас не пожалеете так же, как не пожалела я!\n4\n4\nПосмотреть ответ организации\nДмитрий М.\nЗнаток города 4 уровня\nПодписаться\n17 декабря 2025\nФуад профессионал , стригусь давно и всем рекомендую !\n4\n3\nПосмотреть ответ организации\nИрина Коршева\nЗнаток города 3 уровня\nПодписаться\n17 июля 2023\nПришла с очень длинными и не очень здоровыми волосами, сделали стрижку и 6-компонентный уход. Волосы сразу ожили 🌸\n4\n4\nПосмотреть ответ организации\nКсения Б.\nЗнаток города 11 уровня\nПодписаться\n9 апреля 2023\nОтличный мастер! Без лишних слов понимает что и как нужно сделать, получился очень благородный блонд.\n4\n4\nПосмотреть ответ организации\nТина\nЗнаток города 6 уровня\nПодписаться\n18 июля 2023\nФуад мастер своего дела! Была у него на стрижке и на окрашивании - результат выше всяких похвал!!! Спасибо))))\n4\n4\nПосмотреть ответ организации\nОксана С.\nЗнаток города 5 уровня\nПодписаться\n15 декабря 2023\nФуад - мастер своего дела! Специалист который умеет слышать клиента 👍 благодарю за Ваше мастерство и профессионализм 👏👏👏\n4\n4\nПосмотреть ответ организации\nВалентина Садовая\nЗнаток города 3 уровня\nПодписаться\n16 апреля 2023\nФуад очень хорошо слелал сыну стрижку, мастер своего дела 👌 прийдем еше💯\n4\n4\nПосмотреть ответ организации\nКатя М.\nЗнаток города 4 уровня\n8 ноября 2025\nФуад, отличный мастер и колорист , золотые руки\n5\n3\nПосмотреть ответ организации\nТатьяна М\nЗнаток города 3 уровня\n1 июля 2023\nОсобую благодарность хочу выразить мастеру Фуаду. Профессионал своего дела! Внимательный, добрый, располагающий к себе человек!\n\n4\n4\nПосмотреть ответ организации\nEilaf Mourad\nЗнаток города 3 уровня\n17 декабря 2025\nФуад замечательный мастер, знаю его давно, а то что здесь появились два отзыва негативных про него то это ложь ! Хочу , чтобы люди которые будут искать мастера на районе и читают отзывы, понимали , что эти плохие отзывы о нем пишут люди, которые не были у него !\n3\n3\nПосмотреть ответ организации\nОльга Жаркова\nЗнаток города 7 уровня\nПодписаться\n9 сентября 2024\nОчень понравилась работа мастера Фуада\n4\n4\nПосмотреть ответ организации\n1\n2\nНаписать отзыв",
       "links": [
         {
           "text": "Маршруты",
@@ -2043,7 +2064,14 @@
     "Logo и Team не создаются без подтверждённого логотипа и данных о конкретных мастерах."
   ],
   "download_failures": [],
-  "requested_photo_limit": 25,
+  "requested_photo_limit": 35,
   "gallery_links_found_raw": 182,
-  "gallery_urls_found": 182
+  "gallery_urls_found": 182,
+  "photo_reviewed": true,
+  "salon_photo_limit": 3,
+  "photo_review_summary": {
+    "works": 23,
+    "salon": 2,
+    "deleted": 10
+  }
 }
